@@ -1,5 +1,5 @@
 _repo: Original-Short-Stories---Volume-12_3088
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translators:
   - agent_name: Henderson, A. E.
@@ -12,6 +12,9 @@ contributor:
     alias: Quesada, Mme.
     gutenberg_agent_id: '4595'
     url: http://www.gutenberg.org/2009/agents/4595
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Maupassant, Guy de
@@ -24,6 +27,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Guy_de_Maupassant
     - http://en.wikipedia.org/wiki/Guy_de_Maupassant
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3088#Original-Short-Stories---Volume-12
 gutenberg_issued: '2004-10-03'
 gutenberg_type: Text
 identifiers:
